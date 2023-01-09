@@ -1,0 +1,20 @@
+{
+	"enableRaidTimeChange": true,
+	"RemoveInRaidLootingRestrictions": false,
+	"RemoveInRaidCarryRestrictions": false,
+	"universalRaidTime": 99,
+	"disableLabScavs": false,
+	"difficultyOfAI": "Easy",
+	"amountOfAI": "AsOnline",
+	"enabledBoss": false,
+	"instantInsurance": true,
+	"instantHideoutTimes": true,
+	"increasedXPMultiplier": true,
+	"miaXPMult": 1,
+	"survivedXPMult": 2,
+	"runnerXPMult": 1,
+	"killedXPMult": 1,
+	"skillMultiplier": 10,
+	"wepSkillMultiplier": 10,
+	"lootMultiplier": 1
+}
