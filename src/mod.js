@@ -43,6 +43,9 @@ class Mod {
         raidConfig.raidMenuSettings.aiDifficulty = this.modConfig.difficultyOfAI;
         raidConfig.raidMenuSettings.aiAmount = this.modConfig.amountOfAI;
         raidConfig.raidMenuSettings.bossEnabled = this.modConfig.enabledBoss;
+        raidConfig.raidMenuSettings.scavWars = this.modConfig.scavWars;
+        raidConfig.raidMenuSettings.taggedAndCursed = this.modConfig.taggedAndCursed;
+        raidConfig.raidMenuSettings.enablePve = this.modConfig.enablePve;
         //Faster deploy time
         tables.globals.config.TimeBeforeDeploy = 2;
         tables.globals.config.TimeBeforeDeployLocal = 2;
